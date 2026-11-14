@@ -217,4 +217,4 @@ ThumbsPlus is available as a complete free version with all features and updates
 Start organizing your photos effortlessly with ThumbsPlus today!
 
 ---
-**Last updated:** 2026-11-14 14:37:39 UTC
+**Last updated:** 2026-11-14 19:35:13 UTC
